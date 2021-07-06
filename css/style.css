@@ -37,3 +37,24 @@ h1{
   padding-top: 40px;
   margin-top: 50px;
 }
+.my-recipes{
+  text-align: center;
+ 
+}
+.last-flex{
+  
+  display: flex;
+}
+.last-flex img{
+  width: 350px;
+  
+  
+}
+.box-shadow{
+  text-align: center;
+  box-shadow: 10px 10px 40px   gray  ;
+  border: 7px solid white;
+  margin: 10px 10px;
+  border-radius: 30px;
+  
+}
