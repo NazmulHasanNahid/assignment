@@ -1,0 +1,27 @@
+body{
+  text-transform: capitalize;
+  font-family: 'Roboto', sans-serif;
+}
+.orange-color{
+  color: orange;
+}
+.half-width{
+  width: 50%;
+  margin: 30px 30px;
+  
+}
+.flex{
+  display: flex;
+}
+.pictures img{
+  width: 100%
+}
+h1{
+  font-size: 50px; 
+}
+.link-button{
+  text-decoration: none;
+  background-image:linear-gradient( orange,salmon);
+  padding: 10px 20px;
+  border-radius: 20px;
+}
